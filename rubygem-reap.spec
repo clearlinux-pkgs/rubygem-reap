@@ -4,7 +4,7 @@
 #
 Name     : rubygem-reap
 Version  : 9.4.0
-Release  : 1
+Release  : 2
 URL      : https://rubygems.org/downloads/reap-9.4.0.gem
 Source0  : https://rubygems.org/downloads/reap-9.4.0.gem
 Summary  : No detailed summary available
