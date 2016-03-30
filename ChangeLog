@@ -1,0 +1,20 @@
+=== 9.4.0 // 2008-04-04
+
+* Created tools to help seperate some project task into isolated tasks.
+* I debated weak vs strong coupling for these classes and settled on strong.
+* Improved announce system for better output.
+* Email and Rubyforge news posting now works.
+* Create hosts classes, to support multiple hosts all at once.
+* Creats scm systems classes to eventuall support more than SVN.
+* Fixed many small bugs and improved overall interface.
+
+=== 9.3.2 // 2008-02-18
+
+* Renamed reap-stamp to reap-version.
+* Using new setup.rb (3.5.0) which links to the Rakefile.
+
+=== 9.1.2 // 2008-02-04
+
+* Initial beta release. Inteded for use by select group of users to help iron out remaining kinks.
+* Only one *big* API change left to consider --rename Manager to Project and Project to ProjectInfo ?
+
